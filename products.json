@@ -1,0 +1,21 @@
+{
+  "catalogue": {
+    "scope": "all_hot_wheels",
+    "include_all_licensed_real_vehicles": true,
+    "include_mainlines": true,
+    "include_premium": true,
+    "include_special_editions": true,
+    "include_all_manufacturers": true,
+    "include_all_models": true,
+    "include_all_release_years": true
+  },
+  "exclude": {
+    "fantasy_castings": true,
+    "non_hot_wheels_products": true
+  },
+  "notifications": {
+    "new_products": true,
+    "in_stock": true,
+    "avoid_duplicates": true
+  }
+}
